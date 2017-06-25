@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NYTSearch</string>
+
+    <string name="nd_arts">Arts</string>
+    <string name="nd_fashion_and_style">Fashion &amp; style</string>
+    <string name="nd_sports">Sports</string>
+
+    <string name="apply_filters">Apply filters</string>
+    <string name="filter_dialog_title">Adjust search filters</string>
+    
+</resources>
